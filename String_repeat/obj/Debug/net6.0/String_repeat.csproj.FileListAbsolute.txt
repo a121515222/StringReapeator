@@ -1,0 +1,15 @@
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.csproj.AssemblyReference.cache
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.AssemblyInfoInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.AssemblyInfo.cs
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.csproj.CoreCompileInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\bin\Debug\net6.0\String_repeat.exe
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\bin\Debug\net6.0\String_repeat.deps.json
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\bin\Debug\net6.0\String_repeat.runtimeconfig.json
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\bin\Debug\net6.0\String_repeat.dll
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\bin\Debug\net6.0\String_repeat.pdb
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.dll
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\refint\String_repeat.dll
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.pdb
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\String_repeat.genruntimeconfig.cache
+C:\Users\chunchia.liang61\RiderProjects\String repeat\String_repeat\obj\Debug\net6.0\ref\String_repeat.dll

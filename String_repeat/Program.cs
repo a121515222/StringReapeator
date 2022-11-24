@@ -2,12 +2,12 @@
 
 namespace StringReapeator
 {
-    class StringRepeat
+    public class StringRepeat
     {
         public string RepeatString(string data)
         {
-            int stringLen = data.Length;
-            string result = "";
+            var stringLen = data.Length;
+            var result = "";
             for (var i = 0; i < stringLen; i++)
             {
                 result += data;

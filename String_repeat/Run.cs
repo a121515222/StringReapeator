@@ -6,8 +6,7 @@ namespace Kata
     {
         static void Main()
         {
-            StringRepeat action = new StringRepeat();
-            Console.WriteLine(action.RepeatString("I'Jack"));
+            Console.WriteLine(StringRepeat.RepeatString("I'Jack"));
         }
     }
 }

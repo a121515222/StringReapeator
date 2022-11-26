@@ -9,6 +9,6 @@ public class Tests
     public void Test1(string data)
     {
         StringRepeat action = new StringRepeat();
-        Assert.AreEqual("JackJackJackJack", action.RepeatString(data));
+        Assert.AreEqual("JackJackJackJack", StringRepeat.RepeatString(data));
     }
 }
